@@ -1,17 +1,23 @@
-title: tetris-theme
+---
 hero_image: images/banner.png
-description: tetris-theme description
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 1 # possible values: 1, 2 or 3
+theme: red
+duration: 1
 listed: false
 ingredient: false
 copyedit: false
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-interests: "jokes/pranks, space, photography, music/sound, physical computing, games, robots"
-technologies: "electronics, sense-hat, physical computing, html/css, scratch, python"
-site_areas:
+title: Code the Tetris Theme Tune
+description: Program Sonic Pi to play musical notes and create the Tetris theme tune.
+original_url: https://codeclubprojects.org/en-GB/sonic-pi/tetris-theme
+interests: music/sound
+technologies: ''
+site_areas: codeclub, sonic-pi
 steps:
-  - title: Introduction
-  - title: What you will need
-  - title: Step title
+- title: Introduction
+- title: Code the Beginning
+- title: 'Challenge: Finish the tune'
+- title: Faster!
+- title: 'Challenge: Mix the tune'
+- title: 'Challenge: More of the tune'
+- title: 'Challenge: More music'
+
