@@ -21,7 +21,7 @@ Let's make your tune go faster and faster.
 
     <div id="audio-preview" class="pdf-hidden">
     <audio controls preload>
-      <source src="sounds/tetris-2.mp3" type="audio/mpeg">
+      <source src="resources/tetris-2.mp3" type="audio/mpeg">
     Your browser does not support the <code>audio</code> element.
     </audio>
     </div>

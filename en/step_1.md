@@ -7,7 +7,7 @@ In this project you will learn how to program musical notes in Sonic Pi so that 
 Click the play button below to hear how the music will sound:
 
 <audio controls preload>
-  <source src="volunteer-resources/korobeiniki.mp3" type="audio/mpeg">
+  <source src="resources/korobeiniki.mp3" type="audio/mpeg">
 Your browser does not support the <code>audio</code> element.
 </audio>
 

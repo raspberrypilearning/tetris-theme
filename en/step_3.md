@@ -9,7 +9,7 @@ Can you use `play_pattern_timed` to program it?
 
 <div id="audio-preview" class="pdf-hidden">
 <audio controls preload>
-  <source src="sounds/tetris-c1.mp3" type="audio/mpeg">
+  <source src="resources/tetris-c1.mp3" type="audio/mpeg">
 Your browser does not support the <code>audio</code> element.
 </audio>
 </div>

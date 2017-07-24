@@ -11,7 +11,7 @@ Sonic Pi uses ':r' in lower case for a rest (a pause) and you can use it just li
 
 <div id="audio-preview" class="pdf-hidden">
 <audio controls preload>
-  <source src="sounds/tetris-c2.mp3" type="audio/mpeg">
+  <source src="resources/tetris-c2.mp3" type="audio/mpeg">
 Your browser does not support the <code>audio</code> element.
 </audio>
 </div>
