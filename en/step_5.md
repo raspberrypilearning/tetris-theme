@@ -3,8 +3,8 @@
 
 Try changing the way the tune sounds by using a different synth.
 
-You can find a reminder of the commands you can use at: [jumpto.cc/sonic-pi-commands](jumpto.cc/sonic-pi-commands).
+You can see a list of the synths available to you by typing `use_synth [space]` and choosing from the list that appears.
 
-
+![Choosing a synth](images/use_synth.png)
 
 --- /challenge ---
