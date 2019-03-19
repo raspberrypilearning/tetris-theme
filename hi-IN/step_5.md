@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Mix the tune
+## चुनौती: धुन को मिलाना
 
-Try changing the way the tune sounds by using a different synth.
+किसी अलग सिंथसाइज़र का उपयोग करके धुन के बजने के तरीके को बदलने की कोशिश करें।
 
-You can see a list of the synths available to you by typing `use_synth [space]` and choosing from the list that appears.
+आप `use_synth [space]` टाइप करके आपको उपलब्ध सिंथसाइज़रों की एक सूची देख सकते हैं और जो सूची दिखाई दे उसमें से चयन कर सकते हैं।
 
-![Choosing a synth](images/use_synth.png)
+![एक सिंथसाइज़र चुनना](images/use_synth.png)
 
 \--- /challenge \---
