@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: More music
+## चुनौती: अधिक संगीत
 
-Can you use what you've learned to program more music? You can search for sheet music online. Some music gives the letter names for notes which makes it easier.
+आपने जो सीखा है क्या आप उसका उपयोग अधिक संगीत को प्रोग्राम करने के लिए कर सकते हैं? आप लिखित संगीत ऑनलाइन खोज सकते हैं। किसी-किसी संगीत में सुरों के लिए अक्षर नाम दिए गए होते हैं जिससे यह आसान बन जाता है।
 
 \--- /challenge \---
