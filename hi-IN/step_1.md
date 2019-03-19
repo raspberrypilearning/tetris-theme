@@ -1,69 +1,69 @@
-## Introduction
+## परिचय
 
-In this project you will learn how to program musical notes in Sonic Pi so that you can turn sheet music into code. You'll create your own mix of the Tetris theme tune.
+इस प्रोजेक्ट में आप सीखेंगे कि Sonic Pi में संगीत के सुरों को कैसे प्रोग्राम करें ताकि आप लिखित संगीत को कोड में बदल सकें। आप टेट्रिस थीम धुन का अपना मिश्रण बनाएँगे।
 
 <div id="audio-preview" class="pdf-hidden">
-  Click the play button below to hear how the music will sound: <audio controls preload> <source src="resources/korobeiniki.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  संगीत की आवाज़ कैसी होगी यह सुनने के लिए नीचे दिए गए प्ले (चलाएँ) बटन पर क्लिक करें: <audio controls preload> <source src="resources/korobeiniki.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio>
 </div>
 
-Tetris is a popular computer game created in 1984 by Russian coder Alexey Pajitnov. Many versions of Tetris use the music 'Korobeiniki', a Russian folk dance.
+टेट्रिस एक लोकप्रिय कंप्यूटर गेम है जिसे 1984 में रूसी कोडर Alexey Pajitnov (एलेक्सी पजीतनोव) ने बनाया था। टेट्रिस के कई संस्करणों में 'Korobeiniki' (कोरोबिनिकी) संगीत का उपयोग हुआ है, जो एक रूसी लोक नृत्य है।
 
-If you're using a Raspberry Pi computer then you can hear the music by playing the Tetromino game. You can find it by choosing 'Games' from the menu and then 'Python Games'. Don't play for too long! You've got coding to do.
+यदि आप Raspberry Pi कंप्यूटर का उपयोग कर रहे हैं तो आप टेट्रोमिनो गेम को चला कर संगीत सुन सकते हैं। आप इसे मेनू से 'गेम्स' और फिर 'Python Games' चुनकर ढूँढ सकते हैं। बहुत अधिक समय तक न चलाएँ! आपको कोडिंग करनी है।
 
-![screenshot](images/tetromino.png)
+![स्क्रीनशॉट](images/tetromino.png)
 
-The shapes of the Tetris pieces are called tetrominoes - the 2D shapes that can be made with 4 squares.
+Tetris (टेट्रिस) की रचनाओं के आकार को टेट्रोमिनो कहा जाता है - 2D आकृतियाँ जिन्हें 4 चौकोर से बनाया जा सकता है।
 
-### Additional information for club leaders
+### क्लब लीडरों के लिए अतिरिक्त जानकारी
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/tetris-theme/print).
+यदि आप इस प्रोजेक्ट को प्रिंट करना चाहते हैं, तो कृपया [प्रिंटर अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/tetris-theme/print) का उपयोग करें।
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: क्लब लीडर की टिप्पणियाँ
 
-## Introduction:
+## परिचय:
 
-In this project, children will program the Tetris Theme using musical notes and work with musical notation.
+इस प्रोजेक्ट में, बच्चे संगीत स्वरों का उपयोग करके टेट्रिस थीम को प्रोग्राम करेंगे और संगीत स्वरांकन के साथ काम करेंगे।
 
-## Resources
+## संसाधन
 
-The 'Project Materials' link for this project contains the following resources:
+इस प्रोजेक्ट के लिए 'प्रोजेक्ट सामग्री' लिंक में निम्नलिखित संसाधन सम्मिलित हैं:
 
-##### Club leader Resources
+##### क्लब लीडर संसाधन
 
-You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
+आप इस प्रोजेक्ट के लिए 'प्रोजेक्ट सामग्री' लिंक पर क्लिक करके इस प्रोजेक्ट का पूर्ण संस्करण पा सकते हैं, जिसमें निम्न शामिल हैं:
 
 * kobeiniki.txt
 * kobeiniki.mp3
 
-## Learning Objectives
+## सीखने के उद्देश्य
 
-* Programming music using letter names. 
-* Using `play_pattern_timed` in Sonic Pi.
+* अक्षर नामों का उपयोग करके संगीत को प्रोग्राम करना। 
+* Sonic Pi में `play_pattern_timed` का उपयोग करना।
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+इस प्रोजेक्ट में [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](http://rpf.io/curriculum) के निम्नलिखित पहलुओं के तत्व सम्मिलित हैं:
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [सरल प्रोग्राम बनाने के लिए आधारभूत प्रोग्रामिंग संरचनाओं का उपयोग करना।](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Challenges
+## चुनौतियाँ
 
-* "Finish the tune" - Program more music from annotated musical notation.
-* "Mix the tune" - Experiment with using different synths.
-* "More of the tune" - Program more music from annotated musical notation and using `:r` for rests.
-* "More music" - Find simple sheet music online and program it.
+* "धुन समाप्त करना" - एनोटेट किए गए संगीत स्वरांकन से अधिक संगीत प्रोग्राम करें।
+* "धुन मिक्स करना" - अलग-अलग सिंथसाइज़र का उपयोग करके प्रयोग करें।
+* "धुन का अधिक उपयोग करना" - एनोटेट किए गए संगीत स्वरांकन से और अधिक संगीत प्रोग्राम तैयार करना और विश्रामों के लिए `:r` का उपयोग करना।
+* "अधिक संगीत" - ऑनलाइन लिखित सरल संगीत ढूँढें और इसे प्रोग्राम करें।
 
-## Frequently Asked Questions
+## अक्सर पूछे जाने वाले सवाल
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: प्रोजेक्ट सामग्री
 
-## Club leader resources
+## क्लब लीडर संसाधन
 
-* [Downloadable completed Sonic Pi project](resources/korobeiniki.txt)
-* [Downloadable completed project mp3 file](resources/korobeiniki.mp3)
+* [डाउनलोड करने योग्य पूर्ण Sonic Pi प्रोजेक्ट](resources/korobeiniki.txt)
+* [डाउनलोड करने योग्य पूर्ण प्रोजेक्ट mp3 फ़ाइल](resources/korobeiniki.mp3)
 
 \--- /collapse \---
