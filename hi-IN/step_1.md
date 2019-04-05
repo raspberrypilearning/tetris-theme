@@ -20,7 +20,7 @@ Tetris (टेट्रिस) की रचनाओं के आकार क
 
 ## \--- collapse \---
 
-## title: क्लब लीडर की टिप्पणियाँ
+## title: क्लब नेता नोट्स
 
 ## परिचय:
 
@@ -37,14 +37,14 @@ Tetris (टेट्रिस) की रचनाओं के आकार क
 * kobeiniki.txt
 * kobeiniki.mp3
 
-## सीखने के उद्देश्य
+## अध्ययन के उद्देश्य
 
 * अक्षर नामों का उपयोग करके संगीत को प्रोग्राम करना। 
 * Sonic Pi में `play_pattern_timed` का उपयोग करना।
 
-इस प्रोजेक्ट में [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](http://rpf.io/curriculum) के निम्नलिखित पहलुओं के तत्व सम्मिलित हैं:
+यह प्रोजेक्ट [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](http://rpf.io/curriculum) के निम्नलिखित तत्वों को पूरा करता है:
 
-* [सरल प्रोग्राम बनाने के लिए आधारभूत प्रोग्रामिंग संरचनाओं का उपयोग करना।](https://www.raspberrypi.org/curriculum/programming/creator)
+* [सरल प्रोग्राम बनाने के लिए आधारभूत संरचनाओं का उपयोग करें।](https://www.raspberrypi.org/curriculum/programming/creator)
 
 ## चुनौतियाँ
 
