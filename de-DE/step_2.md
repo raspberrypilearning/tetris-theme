@@ -2,9 +2,9 @@
 
 Lasse uns nun den ersten Teil des Songs in Sonic Pi codieren.
 
-+ Zuerst wählen wir eine Geschwindigkeit und einen Synth für die Musik. Die normale Geschwindigkeit beträgt 60 Schläge pro Minute (BPM), aber das ist für dieses Stück nicht schnell genug.
++ Zuerst lass uns eine Geschwindigkeit und einen Synth für die Musik auswählen. Die normale Geschwindigkeit beträgt 60 Schläge pro Minute (BPM), aber das ist für dieses Stück nicht schnell genug.
     
-    Wählen Sie einen leeren Puffer in Sonic Pi und geben Sie diesen Code ein:
+    Wähle einen leeren Puffer in Sonic Pi und gebe diesen Code ein:
     
     ![Screenshot](images/tetris-setup.png)
 
@@ -14,11 +14,11 @@ Lasse uns nun den ersten Teil des Songs in Sonic Pi codieren.
     
     Es zeigt den Namen der Note unten in rot und die Länge der Note oben in Grün.
     
-    Noten haben Buchstaben von AG. Um mehr Noten zu erhalten, wiederholen Sie die Buchstaben, um mehr Oktaven (Bereiche mit höheren oder niedrigeren Noten) zu erhalten.
+    Noten haben Buchstaben von A-G. Um mehr Noten zu erhalten, wiederhole die Buchstaben, um mehr Oktaven (Bereiche mit höheren oder niedrigeren Noten) zu erhalten.
     
     In Sonic Pi ist der Standardwert die Oktave 4, b3 bedeutet b aus der darunterliegenden Oktave.
     
-    Mit Sonic Pi können Sie Buchstabennamen anstelle von Zahlen verwenden. Dies ist nützlich, wenn Sie mit Notationen arbeiten.
+    Mit Sonic Pi kannst du Buchstabennamen anstelle von Zahlen verwenden. Dies ist nützlich, wenn du mit Notationen arbeitest.
     
     Codiere die ersten 3 Noten von Korobeiniki in Sonic Pi:
     
@@ -26,13 +26,13 @@ Lasse uns nun den ersten Teil des Songs in Sonic Pi codieren.
 
 + Das funktioniert, aber man muss ziemlich viel tippen. Es gibt eine kürzere Möglichkeit, längere Titel zu programmieren: `play_pattern`.
     
-    `play_pattern` können Sie mehrere Noten in einer Zeile programmieren.
+    Mit `play_pattern` kannst Du mehrere Noten in einer Zeile programmieren.
     
-    Ersetzen Sie Ihren Code, um `play_pattern` zu verwenden, um den ersten Takt zu spielen:
+    Ersetze deinen Code, um `play_pattern` zu verwenden, um den ersten Takt zu spielen:
     
     ![Screenshot](images/tetris-pattern.png)
 
-+ Sie haben vielleicht bemerkt, dass die Notizen nicht alle gleich lang sind. Wenn Sie `play_pattern` in `play_pattern_timed` ändern, können Sie sagen, wie lange jede Note dauert.
++ Du hast vielleicht bemerkt, dass die Notizen nicht alle gleich lang sind. Wenn Sie `play_pattern` in `play_pattern_timed` ändern, können Sie sagen, wie lange jede Note dauert.
     
     Die Zahlen in Grün zeigen viele Schläge, die jede Note hält.
     
