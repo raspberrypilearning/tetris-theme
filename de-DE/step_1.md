@@ -50,7 +50,7 @@ Dieses Projekt umfasst Elemente aus den folgenden Teilen des [Raspberry Pi Digit
 
 * "Stelle die Melodie fertig" - Programmiere mehr Musik aus kommentierter Notation.
 * "Mixe die Melodie" - Experimentiere mit verschiedenen Synthesizern.
-* "Mach mehr aus der Melodie" - Programmiere mehr Musik aus kommentierter Notation und verwende `: r` für Pausen.
+* "Mach mehr von der Melodie" - Programmiere mehr Musik aus kommentierter Notation und verwende `: r` für Pausen.
 * "Mehr Musik" -Finde einfache Noten und programmiere sie.
 
 ## Häufig gestellte Fragen
