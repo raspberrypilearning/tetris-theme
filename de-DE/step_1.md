@@ -1,6 +1,6 @@
 ## Einleitung
 
-In diesem Projekt lernst du, wie Sdu Noten in Sonic Pi programmierst, um Noten in einen Code umzuwandeln. Du erstellst deinen eigenen Mix aus der Tetris-Melodie.
+In diesem Projekt lernst du, wie du Musiknoten in Sonic Pi programmieren kannst, damit du die Noten in einen Code verwandeln kannst. Du erstellst deinen eigenen Mix aus der Tetris-Melodie.
 
 <div id="audio-preview" class="pdf-hidden">
   Klicke unten auf die Wiedergabeschaltfläche, um zu erfahren, wie die Musik klingt: <audio controls preload> <source src="resources/korobeiniki.mp3" type="audio/mpeg"> Ihr Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
