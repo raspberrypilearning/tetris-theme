@@ -1,14 +1,14 @@
 ## Schneller!
 
-Russische Volkslieder werden oft schneller und schneller. Das Tetris-Theme-Tune tut dies auch, wenn Sie zu höheren Levels im Spiel gelangen.
+Russische Volkslieder werden oft schneller und schneller. Das Tetris-Theme-Tune tut dies auch, wenn du zu höheren Leveln im Spiel gelangst.
 
-Lassen Sie uns Ihre Musik schneller und schneller machen.
+Lass uns deine Musik schneller und schneller machen.
 
 + Dein Code sollte jetzt so aussehen:
     
     ![Screenshot](images/tetris-part1.png)
 
-+ Lassen Sie uns die Musik zuerst in eine Schleife bringen, damit sie mehrmals abgespielt wird:
++ Lass uns die Musik zuerst in eine Schleife bringen, damit sie mehrmals abgespielt wird:
     
     ![screenshot](images/tetris-times.png)
 
