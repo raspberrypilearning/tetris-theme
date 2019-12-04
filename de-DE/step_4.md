@@ -12,9 +12,9 @@ Lass uns deine Musik schneller und schneller machen.
     
     ![screenshot](images/tetris-times.png)
 
-+ Wir können die Variable `current_bpm` , um herauszufinden, worauf die BPM aktuell eingestellt ist.
++ Wir können die Variable `current_bpm` verwenden, um herauszufinden, worauf die BPM (Beats pro Minute) aktuell eingestellt ist.
     
-    Fügen Sie eine Zeile hinzu, um die BPM jedes Mal zu erhöhen, wenn Sie die Schleife wiederholen:
+    Füge eine Zeile hinzu, um die BPM jedes Mal zu erhöhen, wenn du die Schleife wiederholst:
     
     ![Screenshot](images/tetris-bpm.png)
     
@@ -22,4 +22,4 @@ Lass uns deine Musik schneller und schneller machen.
       <audio controls preload> <source src="resources/tetris-2.mp3" type="audio/mpeg"> Ihr Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
     </div>
 
-Versuchen Sie, die Anzahl der Wiederholungen zu erhöhen, um schneller und schneller zu gehen!
+Versuche, die Anzahl der Wiederholungen zu erhöhen, um schneller und schneller zu werden!
