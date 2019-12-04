@@ -1,6 +1,6 @@
-## Code den Anfang
+## Codiere den Anfang
 
-Lassen Sie uns nun den ersten Teil des Songs in Sonic Pi codieren.
+Lasse uns nun den ersten Teil des Songs in Sonic Pi codieren.
 
 + Zuerst wählen wir eine Geschwindigkeit und einen Synth für die Musik. Die normale Geschwindigkeit beträgt 60 Schläge pro Minute (BPM), aber das ist für dieses Stück nicht schnell genug.
     
