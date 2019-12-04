@@ -1,14 +1,14 @@
 ## Einleitung
 
-In diesem Projekt lernen Sie, wie Sie Noten in Sonic Pi programmieren, um Noten in Code umzuwandeln. Sie erstellen Ihren eigenen Mix aus der Tetris-Melodie.
+In diesem Projekt lernst du, wie Sdu Noten in Sonic Pi programmierst, um Noten in einen Code umzuwandeln. Du erstellst deinen eigenen Mix aus der Tetris-Melodie.
 
 <div id="audio-preview" class="pdf-hidden">
-  Klicken Sie unten auf die Wiedergabeschaltfläche, um zu erfahren, wie die Musik klingt: <audio controls preload> <source src="resources/korobeiniki.mp3" type="audio/mpeg"> Ihr Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
+  Klicke unten auf die Wiedergabeschaltfläche, um zu erfahren, wie die Musik klingt: <audio controls preload> <source src="resources/korobeiniki.mp3" type="audio/mpeg"> Ihr Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
 </div>
 
 Tetris ist ein beliebtes Computerspiel, das 1984 vom russischen Programmierer Alexey Pajitnov erstellt wurde. Viele Versionen von Tetris verwenden die Musik "Korobeiniki", einen russischen Volkstanz.
 
-Wenn Sie einen Raspberry Pi-Computer verwenden, können Sie die Musik hören, indem Sie das Tetromino-Spiel spielen. Sie finden es, indem Sie "Spiele" aus dem Menü und dann "Python-Spiele" auswählen. Spielen Sie nicht zu lange! Sie haben Coding zu tun.
+Wenn du einen Raspberry Pi-Computer verwendest, kannst du die Musik hören, indem du das Tetromino-Spiel spielst. Du findest es, indem Du "Spiele" aus dem Menü und dann "Python-Spiele" auswählst. Spiele nicht zu lange! Du hast mit dem Kodieren zu tun.
 
 ![screenshot](images/tetromino.png)
 
@@ -48,12 +48,12 @@ Dieses Projekt umfasst Elemente aus den folgenden Teilen des [Raspberry Pi Digit
 
 ## Herausforderungen
 
-* "Fertig die Melodie" - Programmieren Sie mehr Musik aus kommentierter Notation.
-* "Mix the melodie" - Experimentieren Sie mit verschiedenen Synths.
-* "More of the tune" - Programmieren Sie mehr Musik aus kommentierter Notation und verwenden Sie `: r` für Pausen.
-* "More music" - Einfache Noten online finden und programmieren.
+* "Stelle die Melodie fertig" - Programmiere mehr Musik aus kommentierter Notation.
+* "Mixe die Melodie" - Experimentiere mit verschiedenen Synthesizern.
+* "Mach mehr aus der Melodie" - Programmiere mehr Musik aus kommentierter Notation und verwende `: r` für Pausen.
+* "Mehr Musik" -Finde einfache Noten und programmiere sie.
 
-## Häufig Gestellte Fragen
+## Häufig gestellte Fragen
 
 \--- /collapse \---
 
