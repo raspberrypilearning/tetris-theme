@@ -1,4 +1,4 @@
-# Willkommen bei Sonic Pi v2.10
+# Welcome to Sonic Pi v3. 1
 use_bpm 120
 use_synth: dpulse
 
