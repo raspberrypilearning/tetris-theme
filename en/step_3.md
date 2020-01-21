@@ -1,4 +1,5 @@
 --- challenge ---
+
 ## Challenge: Finish the tune
 
 Here's the music for the next two bars.
@@ -13,9 +14,5 @@ Can you use `play_pattern_timed` to program it?
 Your browser does not support the <code>audio</code> element.
 </audio>
 </div>
-
-
-
-
 
 --- /challenge ---

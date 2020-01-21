@@ -1,4 +1,5 @@
 --- challenge ---
+
 ## Challenge: More of the tune
 
 Can you program the next part of the tune:
@@ -15,6 +16,5 @@ Sonic Pi uses ':r' in lower case for a rest (a pause) and you can use it just li
 Your browser does not support the <code>audio</code> element.
 </audio>
 </div>
-
 
 --- /challenge ---
