@@ -10,23 +10,23 @@ Tetris is a popular computer game created in 1984 by Russian coder Alexey Pajitn
 
 If you're using a Raspberry Pi computer then you can hear the music by playing the Tetromino game. You can find it by choosing 'Games' from the menu and then 'Python Games'. Don't play for too long! You've got coding to do.
 
-![capture d'écran](images/tetromino.png)
+![screenshot](images/tetromino.png)
 
 The shapes of the Tetris pieces are called tetrominoes - the 2D shapes that can be made with 4 squares.
 
-### Informations complémentaires pour les responsables de club
+### Additional information for club leaders
 
-Si tu as besoin d'imprimer ce projet, merci d'utiliser la [Version imprimable](https://projects.raspberrypi.org/en/projects/tetris-theme/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/tetris-theme/print).
 
 ## \--- collapse \---
 
-## title: Notes pour le responsable de club
+## title: Club leader notes
 
-## Introduction :
+## Introduction:
 
 In this project, children will program the Tetris Theme using musical notes and work with musical notation.
 
-## Ressources
+## Resources
 
 The 'Project Materials' link for this project contains the following resources:
 
@@ -37,31 +37,31 @@ You can find a completed version of this project by clicking the 'Project Materi
 * kobeiniki.txt
 * kobeiniki.mp3
 
-## Objectifs d'apprentissage
+## Learning Objectives
 
 * Programming music using letter names. 
 * Using `play_pattern_timed` in Sonic Pi.
 
-Ce projet couvre les élements suivants du [Programme Raspberry Pi de Créativité Numérique](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Utiliser les constructs basiques de programmation pour élaborer un programme simple.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Défis
+## Challenges
 
 * "Finish the tune" - Program more music from annotated musical notation.
 * "Mix the tune" - Experiment with using different synths.
 * "More of the tune" - Program more music from annotated musical notation and using `:r` for rests.
 * "More music" - Find simple sheet music online and program it.
 
-## Foire aux questions
+## Frequently Asked Questions
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Matériel pour projet
+## title: Project materials
 
-## Ressources pour le responsable de club
+## Club leader resources
 
 * [Downloadable completed Sonic Pi project](resources/korobeiniki.txt)
 * [Downloadable completed project mp3 file](resources/korobeiniki.mp3)
