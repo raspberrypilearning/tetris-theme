@@ -6,7 +6,7 @@ Let's make your tune go faster and faster.
 
 + Your code should now look like this:
     
-    ![képernyőkép](images/tetris-part1.png)
+    ![screenshot](images/tetris-part1.png)
 
 + Let's put the music into a loop first so that it plays multiple times:
     
