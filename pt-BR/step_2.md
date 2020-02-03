@@ -6,11 +6,11 @@ Now let's code the first part of the tune in Sonic Pi.
     
     Choose an empty Buffer in Sonic Pi and add this code:
     
-    ![captura de tela](images/tetris-setup.png)
+    ![screenshot](images/tetris-setup.png)
 
 + Here's the first bar of Korobeiniki:
     
-    ![captura de tela](images/tetris-notes1.png)
+    ![screenshot](images/tetris-notes1.png)
     
     It shows the name of the note below in red and the length of the note above in green.
     
@@ -48,13 +48,13 @@ Now let's code the first part of the tune in Sonic Pi.
 
 + If you don't give enough times then Sonic Pi will repeat them. This bar repeats the timing `1, 0.5, 0.5` (crotchet, quaver, quaver) so you can change your code to:
     
-    ![captura](images/tetris-timed2.png)
+    ![screenshot](images/tetris-timed2.png)
 
 + Add the next bar of music, the timing is the same for this bar.
     
     ![screenshot](images/tetris-notes2.png)
     
-    ![capturas de tela](images/tetris-bar2.png)
+    ![screenshot](images/tetris-bar2.png)
     
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/tetris-1.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
