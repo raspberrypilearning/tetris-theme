@@ -1,4 +1,4 @@
-## Bevezetés
+## Introduction
 
 In this project you will learn how to program musical notes in Sonic Pi so that you can turn sheet music into code. You'll create your own mix of the Tetris theme tune.
 
@@ -14,7 +14,7 @@ If you're using a Raspberry Pi computer then you can hear the music by playing t
 
 The shapes of the Tetris pieces are called tetrominoes - the 2D shapes that can be made with 4 squares.
 
-### További információk klubvezetőknek
+### Additional information for club leaders
 
 If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/tetris-theme/print).
 
@@ -22,11 +22,11 @@ If you need to print this project, please use the [Printer friendly version](htt
 
 ## title: Club leader notes
 
-## Bevezetés:
+## Introduction:
 
 In this project, children will program the Tetris Theme using musical notes and work with musical notation.
 
-## Segédanyagok
+## Resources
 
 The 'Project Materials' link for this project contains the following resources:
 
