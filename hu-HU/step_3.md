@@ -1,4 +1,4 @@
-\--- kihívás \---
+\--- challenge \---
 
 ## Challenge: Finish the tune
 
@@ -12,4 +12,4 @@ Can you use `play_pattern_timed` to program it?
   <audio controls preload> <source src="resources/tetris-c1.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
-\--- / challenge \---
+\--- /challenge \---
