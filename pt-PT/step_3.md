@@ -1,10 +1,10 @@
-\--- desafio \---
+\--- challenge \---
 
 ## Challenge: Finish the tune
 
 Here's the music for the next two bars.
 
-![captura de ecrã](images/tetris-notes3.png)
+![screenshot](images/tetris-notes3.png)
 
 Can you use `play_pattern_timed` to program it?
 
