@@ -57,7 +57,7 @@ Now let's code the first part of the tune in Sonic Pi.
     ![screenshot](images/tetris-bar2.png)
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/tetris-1.mp3" type="audio/mpeg"> Je browser ondersteunt het element <code>audio</code> niet. </audio>
+      <audio controls preload> <source src="resources/tetris-1.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
     </div>
 
 Is the tune starting to sound familiar?
