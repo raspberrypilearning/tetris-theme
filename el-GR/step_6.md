@@ -4,7 +4,7 @@
 
 Can you program the next part of the tune:
 
-![screenshot (στιγμιότυπο οθόνης)](images/tetris-notes4.png)
+![screenshot](images/tetris-notes4.png)
 
 Sonic Pi uses ':r' in lower case for a rest (a pause) and you can use it just like a note.
 
