@@ -1,4 +1,4 @@
-## Giới thiệu
+## Introduction
 
 In this project you will learn how to program musical notes in Sonic Pi so that you can turn sheet music into code. You'll create your own mix of the Tetris theme tune.
 
@@ -10,23 +10,23 @@ Tetris is a popular computer game created in 1984 by Russian coder Alexey Pajitn
 
 If you're using a Raspberry Pi computer then you can hear the music by playing the Tetromino game. You can find it by choosing 'Games' from the menu and then 'Python Games'. Don't play for too long! You've got coding to do.
 
-![ảnh chụp màn hình](images/tetromino.png)
+![screenshot](images/tetromino.png)
 
 The shapes of the Tetris pieces are called tetrominoes - the 2D shapes that can be made with 4 squares.
 
-### Thông tin bổ sung cho lãnh đạo của các câu lạc bộ
+### Additional information for club leaders
 
-Nếu bạn cần in dự án này, vui lòng sử dụng [Phiên bản thân thiện với máy in](https://projects.raspberrypi.org/en/projects/tetris-theme/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/tetris-theme/print).
 
-## \--- sụp đổ \---
+## \--- collapse \---
 
-## title: Ghi chú dành cho lãnh đạo câu lạc bộ
+## title: Club leader notes
 
-## Giới thiệu:
+## Introduction:
 
 In this project, children will program the Tetris Theme using musical notes and work with musical notation.
 
-## Tài liệu liên quan
+## Resources
 
 The 'Project Materials' link for this project contains the following resources:
 
@@ -37,16 +37,16 @@ You can find a completed version of this project by clicking the 'Project Materi
 * kobeiniki.txt
 * kobeiniki.mp3
 
-## Mục tiêu học tập
+## Learning Objectives
 
 * Programming music using letter names. 
 * Using `play_pattern_timed` in Sonic Pi.
 
-Dự án này bao gồm các nội dung sau từ chương trình [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Sử dụng các cấu trúc lập trình cơ bản để tạo các chương trình đơn giản.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Thử thách
+## Challenges
 
 * "Finish the tune" - Program more music from annotated musical notation.
 * "Mix the tune" - Experiment with using different synths.
@@ -57,11 +57,11 @@ Dự án này bao gồm các nội dung sau từ chương trình [Raspberry Pi D
 
 \--- /collapse \---
 
-## \--- sụp đổ \---
+## \--- collapse \---
 
-## title: Tài liệu và tài nguyên cho dự án
+## title: Project materials
 
-## Tài liệu cho lãnh đạo câu lạc bộ
+## Club leader resources
 
 * [Downloadable completed Sonic Pi project](resources/korobeiniki.txt)
 * [Downloadable completed project mp3 file](resources/korobeiniki.mp3)
