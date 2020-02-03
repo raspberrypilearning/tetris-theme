@@ -1,4 +1,4 @@
-\--- kihívás \---
+\--- challenge \---
 
 ## Challenge: More of the tune
 
@@ -14,4 +14,4 @@ Sonic Pi uses ':r' in lower case for a rest (a pause) and you can use it just li
   <audio controls preload> <source src="resources/tetris-c2.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
-\--- / challenge \---
+\--- /challenge \---
