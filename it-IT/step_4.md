@@ -4,7 +4,7 @@ Russian folk songs often get faster and faster. The Tetris theme tune does this 
 
 Let's make your tune go faster and faster.
 
-+ Il tuo codice dovrebbe apparire così:
++ Your code should now look like this:
     
     ![screenshot](images/tetris-part1.png)
 
@@ -16,7 +16,7 @@ Let's make your tune go faster and faster.
     
     Add a line to increase the bpm every time you repeat the loop:
     
-    ![schermata](images/tetris-bpm.png)
+    ![screenshot](images/tetris-bpm.png)
     
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/tetris-2.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
