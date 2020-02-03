@@ -1,10 +1,10 @@
-\--- desafío \---
+\--- challenge \---
 
 ## Challenge: More of the tune
 
 Can you program the next part of the tune:
 
-![captura de pantalla](images/tetris-notes4.png)
+![screenshot](images/tetris-notes4.png)
 
 Sonic Pi uses ':r' in lower case for a rest (a pause) and you can use it just like a note.
 
