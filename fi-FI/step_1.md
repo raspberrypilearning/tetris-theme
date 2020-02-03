@@ -1,4 +1,4 @@
-## Esittely
+## Introduction
 
 In this project you will learn how to program musical notes in Sonic Pi so that you can turn sheet music into code. You'll create your own mix of the Tetris theme tune.
 
@@ -10,23 +10,23 @@ Tetris is a popular computer game created in 1984 by Russian coder Alexey Pajitn
 
 If you're using a Raspberry Pi computer then you can hear the music by playing the Tetromino game. You can find it by choosing 'Games' from the menu and then 'Python Games'. Don't play for too long! You've got coding to do.
 
-![ruutukaappaus](images/tetromino.png)
+![screenshot](images/tetromino.png)
 
 The shapes of the Tetris pieces are called tetrominoes - the 2D shapes that can be made with 4 squares.
 
-### Lisätietoja klubin vetäjille
+### Additional information for club leaders
 
-Jos haluat tulostaa tämän projektin, käytä [Tulostettava versio](https://projects.raspberrypi.org/en/projects/tetris-theme/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/tetris-theme/print).
 
 ## \--- collapse \---
 
-## title: Opettajille
+## title: Club leader notes
 
-## Esittely:
+## Introduction:
 
 In this project, children will program the Tetris Theme using musical notes and work with musical notation.
 
-## Aineistot
+## Resources
 
 The 'Project Materials' link for this project contains the following resources:
 
@@ -42,11 +42,11 @@ You can find a completed version of this project by clicking the 'Project Materi
 * Programming music using letter names. 
 * Using `play_pattern_timed` in Sonic Pi.
 
-Tämä projekti kattaa osia [Raspberry Pi Digital Making -opetussuunnitelman](http://rpf.io/curriculum) seuraavista osioista:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
 * [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Haasteet
+## Challenges
 
 * "Finish the tune" - Program more music from annotated musical notation.
 * "Mix the tune" - Experiment with using different synths.
@@ -59,9 +59,9 @@ Tämä projekti kattaa osia [Raspberry Pi Digital Making -opetussuunnitelman](ht
 
 ## \--- collapse \---
 
-## otsikko: Projektiaineistot
+## title: Project materials
 
-## Opettajien aineistot
+## Club leader resources
 
 * [Downloadable completed Sonic Pi project](resources/korobeiniki.txt)
 * [Downloadable completed project mp3 file](resources/korobeiniki.mp3)
