@@ -10,7 +10,7 @@ Let's make your tune go faster and faster.
 
 + Let's put the music into a loop first so that it plays multiple times:
     
-    ![captura de tela](images/tetris-times.png)
+    ![screenshot](images/tetris-times.png)
 
 + We can use the variable `current_bpm` to find out what the bpm is currently set to.
     
