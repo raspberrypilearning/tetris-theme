@@ -1,25 +1,25 @@
-## और तेज!
+## Faster!
 
-रूसी लोक गीत अक्सर तेज़ और बहुत तेज़ हो जाते हैं। जैसे-जैसे आप गेम में उच्च स्तर पर पहुँचते हैं, टेट्रिस की थीम धुन भी ऐसा करती है।
+Russian folk songs often get faster and faster. The Tetris theme tune does this too as you get to higher levels in the game.
 
-आइए हम आपकी धुन को तेज़ और तेज़ बनाएँ।
+Let's make your tune go faster and faster.
 
-+ आपका कोड अब इस प्रकार दिखना चाहिए:
++ Your code should now look like this:
     
-    ![स्क्रीनशॉट](images/tetris-part1.png)
+    ![screenshot](images/tetris-part1.png)
 
-+ आइए हम संगीत को पहले एक लूप में रखें ताकि वह कई बार बजे:
++ Let's put the music into a loop first so that it plays multiple times:
     
-    ![स्क्रीनशॉट](images/tetris-times.png)
+    ![screenshot](images/tetris-times.png)
 
-+ हम वेरिएबल `current_bpm` का उपयोग यह पता लगाने के लिए कर सकते हैं कि bpm फिलहाल कितने पर सेट है।
++ We can use the variable `current_bpm` to find out what the bpm is currently set to.
     
-    एक पंक्ति जोड़ें जिससे हर बार जब आप लूप दोहराएँ तो bpm बढ़ जाए:
+    Add a line to increase the bpm every time you repeat the loop:
     
-    ![स्क्रीनशॉट](images/tetris-bpm.png)
+    ![screenshot](images/tetris-bpm.png)
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/tetris-2.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio>
+      <audio controls preload> <source src="resources/tetris-2.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
     </div>
 
-तेज़ी से और बहुत तेज़ी से जाने के लिए दोहराने की संख्या बढ़ाने की कोशिश करें!
+Try increasing the number of repeats to go faster and faster!
