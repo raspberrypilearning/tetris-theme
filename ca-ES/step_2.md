@@ -6,11 +6,11 @@ Now let's code the first part of the tune in Sonic Pi.
     
     Choose an empty Buffer in Sonic Pi and add this code:
     
-    ![captura de pantalla](images/tetris-setup.png)
+    ![screenshot](images/tetris-setup.png)
 
 + Here's the first bar of Korobeiniki:
     
-    ![captura de pantalla](images/tetris-notes1.png)
+    ![screenshot](images/tetris-notes1.png)
     
     It shows the name of the note below in red and the length of the note above in green.
     
@@ -22,7 +22,7 @@ Now let's code the first part of the tune in Sonic Pi.
     
     Code the first 3 notes of Korobeiniki in Sonic Pi:
     
-    ![captura de pantalla](images/tetris-start.png)
+    ![screenshot](images/tetris-start.png)
 
 + That works but it takes quite a lot of typing. There's a shorter way to program longer tunes: `play_pattern`.
     
@@ -30,13 +30,13 @@ Now let's code the first part of the tune in Sonic Pi.
     
     Replace your code to use `play_pattern` to play the first bar:
     
-    ![captura de pantalla](images/tetris-pattern.png)
+    ![screenshot](images/tetris-pattern.png)
 
 + You might have noticed that the notes aren't actually all the same length. That's okay, if you change `play_pattern` to `play_pattern_timed` then you can say how long each note lasts.
     
     The numbers in green show many beats each note lasts.
     
-    ![captura de pantalla](images/tetris-notes1.png)
+    ![screenshot](images/tetris-notes1.png)
     
     (If you read music, this piece is in 4/4 time and a crotchet lasts one beat, a quaver lasts half a beat and a minim lasts two beats.)
     
@@ -44,17 +44,17 @@ Now let's code the first part of the tune in Sonic Pi.
     
     Change your `play_pattern` code to look like this:
     
-    ![captura de pantalla](images/tetris-timed.png)
+    ![screenshot](images/tetris-timed.png)
 
 + If you don't give enough times then Sonic Pi will repeat them. This bar repeats the timing `1, 0.5, 0.5` (crotchet, quaver, quaver) so you can change your code to:
     
-    ![captura de pantalla](images/tetris-timed2.png)
+    ![screenshot](images/tetris-timed2.png)
 
 + Add the next bar of music, the timing is the same for this bar.
     
-    ![captura de pantalla](images/tetris-notes2.png)
+    ![screenshot](images/tetris-notes2.png)
     
-    ![captura de pantalla](images/tetris-bar2.png)
+    ![screenshot](images/tetris-bar2.png)
     
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/tetris-1.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
