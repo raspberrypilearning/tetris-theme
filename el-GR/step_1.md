@@ -1,4 +1,4 @@
-## Εισαγωγή
+## Introduction
 
 In this project you will learn how to program musical notes in Sonic Pi so that you can turn sheet music into code. You'll create your own mix of the Tetris theme tune.
 
@@ -14,19 +14,19 @@ If you're using a Raspberry Pi computer then you can hear the music by playing t
 
 The shapes of the Tetris pieces are called tetrominoes - the 2D shapes that can be made with 4 squares.
 
-### Πρόσθετες πληροφορίες για τους αρχηγούς των ομάδων
+### Additional information for club leaders
 
-Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/en/projects/tetris-theme/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/tetris-theme/print).
 
 ## \--- collapse \---
 
-## title: Σημειώσεις συντονιστή ομάδας
+## title: Club leader notes
 
-## Εισαγωγή:
+## Introduction:
 
 In this project, children will program the Tetris Theme using musical notes and work with musical notation.
 
-## Πόροι
+## Resources
 
 The 'Project Materials' link for this project contains the following resources:
 
@@ -37,31 +37,31 @@ You can find a completed version of this project by clicking the 'Project Materi
 * kobeiniki.txt
 * kobeiniki.mp3
 
-## Στόχοι μάθησης
+## Learning Objectives
 
 * Programming music using letter names. 
 * Using `play_pattern_timed` in Sonic Pi.
 
-Αυτό το έργο περιλαμβάνει στοιχεία από το παρακάτω μάθημα του [Raspberry Pi Digital Curriculum Making](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Χρησιμοποίησε βασικές δομές προγραμματισμού για να δημιουργήσεις απλά προγράμματα.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Προκλήσεις
+## Challenges
 
 * "Finish the tune" - Program more music from annotated musical notation.
 * "Mix the tune" - Experiment with using different synths.
 * "More of the tune" - Program more music from annotated musical notation and using `:r` for rests.
 * "More music" - Find simple sheet music online and program it.
 
-## Συχνές Ερωτήσεις
+## Frequently Asked Questions
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Υλικό έργου
+## title: Project materials
 
-## Πόροι συντονιστή ομάδας
+## Club leader resources
 
 * [Downloadable completed Sonic Pi project](resources/korobeiniki.txt)
 * [Downloadable completed project mp3 file](resources/korobeiniki.mp3)
