@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## चुनौती: धुन समाप्त करना
+## Challenge: Finish the tune
 
-यहाँ अगली दो पट्टियों के लिए संगीत है।
+Here's the music for the next two bars.
 
-![स्क्रीनशॉट](images/tetris-notes3.png)
+![screenshot](images/tetris-notes3.png)
 
-क्या आप इसे प्रोग्राम करने के लिए `play_pattern_timed` का उपयोग कर सकते हैं?
+Can you use `play_pattern_timed` to program it?
 
 <div id="audio-preview" class="pdf-hidden">
-  <audio controls preload> <source src="resources/tetris-c1.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio>
+  <audio controls preload> <source src="resources/tetris-c1.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
 \--- /challenge \---
