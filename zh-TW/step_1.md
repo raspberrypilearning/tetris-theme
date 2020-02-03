@@ -1,4 +1,4 @@
-## 介紹
+## Introduction
 
 In this project you will learn how to program musical notes in Sonic Pi so that you can turn sheet music into code. You'll create your own mix of the Tetris theme tune.
 
@@ -10,19 +10,19 @@ Tetris is a popular computer game created in 1984 by Russian coder Alexey Pajitn
 
 If you're using a Raspberry Pi computer then you can hear the music by playing the Tetromino game. You can find it by choosing 'Games' from the menu and then 'Python Games'. Don't play for too long! You've got coding to do.
 
-![截圖](images/tetromino.png)
+![screenshot](images/tetromino.png)
 
 The shapes of the Tetris pieces are called tetrominoes - the 2D shapes that can be made with 4 squares.
 
-### Code Club 工作人員延伸閱讀
+### Additional information for club leaders
 
 If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/tetris-theme/print).
 
-## - - 自動隱藏選單 - -
+## \--- collapse \---
 
 ## title: Club leader notes
 
-## 介紹:
+## Introduction:
 
 In this project, children will program the Tetris Theme using musical notes and work with musical notation.
 
@@ -44,7 +44,7 @@ You can find a completed version of this project by clicking the 'Project Materi
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [使用基本的編程結構來創造簡單的程序。](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
 ## Challenges
 
@@ -55,9 +55,9 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## Frequently Asked Questions
 
-- - 自動隱藏選單 - -
+\--- /collapse \---
 
-## - - 自動隱藏選單 - -
+## \--- collapse \---
 
 ## title: Project materials
 
@@ -66,4 +66,4 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 * [Downloadable completed Sonic Pi project](resources/korobeiniki.txt)
 * [Downloadable completed project mp3 file](resources/korobeiniki.mp3)
 
-- - 自動隱藏選單 - -
+\--- /collapse \---
