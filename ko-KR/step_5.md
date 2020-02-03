@@ -1,4 +1,4 @@
-\--- 도전 \---
+\--- challenge \---
 
 ## Challenge: Mix the tune
 
@@ -8,4 +8,4 @@ You can see a list of the synths available to you by typing `use_synth [space]` 
 
 ![Choosing a synth](images/use_synth.png)
 
-<0>for</0>, <0>forward()</0>, <0>penup()</0> and <0>pendown()</0>를 사용해 보세요.
+\--- /challenge \---
