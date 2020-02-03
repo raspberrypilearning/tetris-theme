@@ -1,10 +1,10 @@
-\--- 도전 \---
+\--- challenge \---
 
 ## Challenge: More of the tune
 
 Can you program the next part of the tune:
 
-![스크린샷](images/tetris-notes4.png)
+![screenshot](images/tetris-notes4.png)
 
 Sonic Pi uses ':r' in lower case for a rest (a pause) and you can use it just like a note.
 
@@ -14,4 +14,4 @@ Sonic Pi uses ':r' in lower case for a rest (a pause) and you can use it just li
   <audio controls preload> <source src="resources/tetris-c2.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
-\--- /과제 \---
+\--- /challenge \---
