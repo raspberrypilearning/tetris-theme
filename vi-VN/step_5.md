@@ -8,4 +8,4 @@ You can see a list of the synths available to you by typing `use_synth [space]` 
 
 ![Choosing a synth](images/use_synth.png)
 
-\--- /thử thách \---
+\--- /challenge \---
