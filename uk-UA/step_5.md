@@ -1,4 +1,4 @@
-\--- завдання \---
+\--- challenge \---
 
 ## Challenge: Mix the tune
 
