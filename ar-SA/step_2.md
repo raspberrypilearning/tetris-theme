@@ -1,24 +1,24 @@
-## Code the Beginning
+## برمجة البدء
 
-Now let's code the first part of the tune in Sonic Pi.
+الآن دعونا نبرمج الجزء الأول من اللحن في Sonic Pi.
 
-+ First let's choose a speed and a synth for the music. The normal speed is 60 beats per minute (bpm) but that's not fast enough for this piece.
++ أولاً دعونا نختار سرعة ومزامنة للموسيقى. السرعة العادية هي 60 نبضة في الدقيقة (bpm) ولكن هذا ليس بالسرعة الكافية لهذه القطعة.
     
-    Choose an empty Buffer in Sonic Pi and add this code:
+    اختر مخزنًا مؤقتًا فارغًا في Sonic Pi وأضف هذا الكود:
     
-    ![screenshot](images/tetris-setup.png)
+    ![لقطة الشاشة](images/tetris-setup.png)
 
-+ Here's the first bar of Korobeiniki:
++ إليك أول حانة في كوروبينيكي:
     
-    ![screenshot](images/tetris-notes1.png)
+    ![لقطة الشاشة](images/tetris-notes1.png)
     
-    It shows the name of the note below in red and the length of the note above in green.
+    ويبين اسم الملاحظة أدناه باللون الأحمر وطول الملاحظة أعلاه باللون الأخضر.
     
-    Musical notes have letter names from A-G. To get more notes you repeat the letters to get more octaves (ranges of higher or lower notes.) Each octave starts from C.
+    تحتوي النوتات الموسيقية على أسماء حروف من A-G. للحصول على المزيد من الملاحظات ، كرر الحروف للحصول على المزيد من الأوكتافات (نطاقات الملاحظات الأعلى أو الأدنى). يبدأ كل أوكتاف من C.
     
-    In Sonic Pi the default is octave 4, b3 means b from the octave below.
+    في Sonic Pi الافتراضي هو octave 4, b3 means b من octave أدناه.
     
-    Sonic Pi allows you to use letter names instead of numbers. This is useful when you are working with musical notation.
+    يسمح لك Sonic Pi باستخدام أسماء الأحرف بدلاً من الأرقام. هذا مفيد عندما تعمل مع المعنى الموسيقي.
     
     Code the first 3 notes of Korobeiniki in Sonic Pi:
     
