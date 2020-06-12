@@ -20,44 +20,44 @@
     
     يسمح لك Sonic Pi باستخدام أسماء الأحرف بدلاً من الأرقام. هذا مفيد عندما تعمل مع المعنى الموسيقي.
     
-    Code the first 3 notes of Korobeiniki in Sonic Pi:
+    برمج الملاحظات الثلاث الأولى لكوروبينيكي في Sonic Pi:
     
-    ![screenshot](images/tetris-start.png)
+    ![لقطة الشاشة](images/tetris-start.png)
 
-+ That works but it takes quite a lot of typing. There's a shorter way to program longer tunes: `play_pattern`.
++ هذا ينجح، لكنه يستغرق الكثير من الكتابة. هناك طريقة أقصر لبرمجة نغمات أطول: `play_pattern`.
     
-    `play_pattern` allows you to program multiple notes in one line.
+    `play_pattern` يسمح لك ببرمجة ملاحظات متعددة في سطر واحد.
     
-    Replace your code to use `play_pattern` to play the first bar:
+    استبدل التعليمات البرمجية الخاصة بك لاستخدام `play_pattern` لتشغيل الشريط الأول:
     
-    ![screenshot](images/tetris-pattern.png)
+    ![لقطة الشاشة](images/tetris-pattern.png)
 
-+ You might have noticed that the notes aren't actually all the same length. That's okay, if you change `play_pattern` to `play_pattern_timed` then you can say how long each note lasts.
++ ربما كنت قد لاحظت أن الملاحظات ليست في الواقع بنفس الطول. هذا جيد، إذا قمت بتغيير `play_pattern` إلى `play_pattern_timed` فيمكنك القول كم ستستمر كل ملاحظة.
     
-    The numbers in green show many beats each note lasts.
+    الأرقام باللون الأخضر تظهر العديد من النبضات كل ملاحظة مستمرة.
     
-    ![screenshot](images/tetris-notes1.png)
+    ![لقطة الشاشة](images/tetris-notes1.png)
     
-    (If you read music, this piece is in 4/4 time and a crotchet lasts one beat, a quaver lasts half a beat and a minim lasts two beats.)
+    (إذا كنت تقرأ الموسيقى ، فإن هذه القطعة في وقت 4/4 ويدوم المنشور نبضة واحدة ، ويستغرق التهدج نصف إيقاع ويستغرق الحد الأدنى دقيقتين.)
     
-    `play_pattern_timed` takes a list of notes and then a list of times.
+    `play_pattern_timed` يأخذ قائمة من الملاحظات ثم قائمة من المرات.
     
-    Change your `play_pattern` code to look like this:
+    غيّر التعليمة البرمجية `play_pattern` لتبدو هكذا:
     
-    ![screenshot](images/tetris-timed.png)
+    ![لقطة الشاشة](images/tetris-timed.png)
 
-+ If you don't give enough times then Sonic Pi will repeat them. This bar repeats the timing `1, 0.5, 0.5` (crotchet, quaver, quaver) so you can change your code to:
++ إذا لم تعطِ ما يكفي من الوقت، فسيكررهم سونيك باي. هذا الشريط يكرر التوقيت `1، 0.5، 0.5` (الكروتشيه، الكويكر، كويفر) حتى تتمكن من تغيير التعليمات البرمجية الخاصة بك إلى:
     
-    ![screenshot](images/tetris-timed2.png)
+    ![لقطة الشاشة](images/tetris-timed2.png)
 
-+ Add the next bar of music, the timing is the same for this bar.
++ أضف شريط الموسيقى التالي ، التوقيت هو نفسه لهذا الشريط.
     
-    ![screenshot](images/tetris-notes2.png)
+    ![لقطة الشاشة](images/tetris-notes2.png)
     
-    ![screenshot](images/tetris-bar2.png)
+    ![لقطة الشاشة](images/tetris-bar2.png)
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/tetris-1.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/tetris-1.mp3" type="audio/mpeg"> المتصفح الخاص بك لا يدعم عنصر <code>الصوت </code>. </audio>
     </div>
 
-Is the tune starting to sound familiar?
+هل بدأت النغمة تبدو مألوفة؟
