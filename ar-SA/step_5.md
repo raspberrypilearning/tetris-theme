@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Mix the tune
+## التحدي: امزج اللحن
 
-Try changing the way the tune sounds by using a different synth.
+حاول تغيير طريقة إصدار النغمة باستخدام مزامنة مختلفة.
 
-You can see a list of the synths available to you by typing `use_synth [space]` and choosing from the list that appears.
+يمكنك مشاهدة قائمة بالسلاسل المتاحة لك عن طريق كتابة `use_synth [space]` واختيار من القائمة التي تظهر.
 
-![Choosing a synth](images/use_synth.png)
+![اختيار المزامنة](images/use_synth.png)
 
-\--- /challenge \---
+\--- challenge/ \---
