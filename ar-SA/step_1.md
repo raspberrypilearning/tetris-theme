@@ -49,21 +49,21 @@
 ## التحديات
 
 * "إنهاء اللحن" - برمجة المزيد من الموسيقى من التدوين الموسيقي المشروح.
-* "Mix the tune" - Experiment with using different synths.
-* "More of the tune" - Program more music from annotated musical notation and using `:r` for rests.
-* "More music" - Find simple sheet music online and program it.
+* "امزج النغمة" - جرب استخدام مزامنات مختلفة.
+* "المزيد من اللحن" - برمجة المزيد من الموسيقى من التدوين الموسيقي المشروح واستخدام `: r ` للاستراحة.
+* "المزيد من الموسيقى" - اعثر على موسيقى ورقة بسيطة على الإنترنت وبرمجها.
 
-## Frequently Asked Questions
+## الأسئلة الشائعة
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## العنوان: مواد المشروع
 
-## Club leader resources
+## موارد قادة النادي
 
-* [Downloadable completed Sonic Pi project](resources/korobeiniki.txt)
-* [Downloadable completed project mp3 file](resources/korobeiniki.mp3)
+* [مشروع Sonic Pi المكتمل للتحميل](resources/korobeiniki.txt)
+* [التحميل الكامل للمشروع، ملف mp3](resources/korobeiniki.mp3)
 
-\--- /collapse \---
+\--- collapse \---
