@@ -1,54 +1,54 @@
-## Introduction
+## المقدمة
 
-In this project you will learn how to program musical notes in Sonic Pi so that you can turn sheet music into code. You'll create your own mix of the Tetris theme tune.
+في هذا المشروع سوف تتعلم كيفية برمجة النوتات الموسيقية في Sonic Pi بحيث يمكنك تحويل الموسيقى الورقية إلى برمجة. ستنشئ مزيجك الخاص من لوحة تيتريس.
 
 <div id="audio-preview" class="pdf-hidden">
-  Click the play button below to hear how the music will sound: <audio controls preload> <source src="resources/korobeiniki.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  انقر فوق زر التشغيل أدناه لسماع كيف ستبدو الموسيقى: <audio controls preload> <source src="resources/korobeiniki.mp3" type="audio/mpeg"> المتصفح الخاص بك لا يدعم عنصر <code>الصوت </code>. </audio>
 </div>
 
-Tetris is a popular computer game created in 1984 by Russian coder Alexey Pajitnov. Many versions of Tetris use the music 'Korobeiniki', a Russian folk dance.
+تيتريس هي لعبة حاسوبية شعبية أنشأها المبرمج الروسي ألكسي باجيتنوف في عام 1984. العديد من إصدارات تيتريس تستخدم الموسيقى "Korobeiniki"، وهي رقصة شعبية روسية.
 
-If you're using a Raspberry Pi computer then you can hear the music by playing the Tetromino game. You can find it by choosing 'Games' from the menu and then 'Python Games'. Don't play for too long! You've got coding to do.
+إذا كنت تستخدم جهاز كمبيوتر Raspberry Pi فيمكنك سماع الموسيقى عن طريق تشغيل لعبة Tetromino. يمكنك العثور عليها عن طريق اختيار 'الألعاب' من القائمة ثم 'ألعاب بايثون'. لا تلعب لفترة طويلة جدا! لديك البرمجة للقيام بها.
 
-![screenshot](images/tetromino.png)
+![لقطة الشاشة](images/tetromino.png)
 
-The shapes of the Tetris pieces are called tetrominoes - the 2D shapes that can be made with 4 squares.
+وتسمى أشكال قطع تيتريس بترومينو - وهي الأشكال ثنائية الأبعاد التي يمكن صنعها بأربعة مربعات.
 
-### Additional information for club leaders
+### معلومات إضافية لقادة النادي
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/tetris-theme/print).
+إذا كنت بحاجة إلى طباعة هذا المشروع، فيُرجى استخدام [النسخة القابلة للطباعة](https://projects.raspberrypi.org/en/projects/tetris-theme/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: ملاحظات قادة النادي
 
-## Introduction:
+## مقدمة:
 
-In this project, children will program the Tetris Theme using musical notes and work with musical notation.
+في هذا المشروع، سيقوم الأطفال ببرمجة ثيم تيتريس باستخدام الملاحظات الموسيقية والعمل مع الدلالة الموسيقية.
 
-## Resources
+## الموارد
 
-The 'Project Materials' link for this project contains the following resources:
+يحتوي رابط "مواد المشروع" لهذا المشروع على الموارد التالية:
 
-##### Club leader Resources
+##### موارد قادة النادي
 
-You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
+يمكنك العثور على نسخة كاملة من هذا المشروع بالنقر على رابط "مواد المشروع" لهذا المشروع، والذي يحتوي على:
 
 * kobeiniki.txt
 * kobeiniki.mp3
 
-## Learning Objectives
+## أهداف التعلم
 
-* Programming music using letter names. 
-* Using `play_pattern_timed` in Sonic Pi.
+* برمجة الموسيقى باستخدام أسماء الأحرف. 
+* باستخدام `play_pattern_timed` في Sonic Pi.
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+يتناول هذا المشروع عناصر من الصفوف التالية من [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [استخدم أدوات البرمجة الأساسية لإنشاء برامج بسيطة.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Challenges
+## التحديات
 
-* "Finish the tune" - Program more music from annotated musical notation.
+* "إنهاء اللحن" - برمجة المزيد من الموسيقى من التدوين الموسيقي المشروح.
 * "Mix the tune" - Experiment with using different synths.
 * "More of the tune" - Program more music from annotated musical notation and using `:r` for rests.
 * "More music" - Find simple sheet music online and program it.
