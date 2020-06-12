@@ -1,25 +1,25 @@
-## Faster!
+## أسرع!
 
-Russian folk songs often get faster and faster. The Tetris theme tune does this too as you get to higher levels in the game.
+الأغاني الشعبية الروسية غالبا ما تصبح أسرع وأسرع. قالب تيتريس يفعل هذا أيضا عندما تصل إلى مستويات أعلى في اللعبة.
 
-Let's make your tune go faster and faster.
+دعونا نجعل لحنك أسرع وأسرع.
 
-+ Your code should now look like this:
++ يجب أن تبدو التعليمات البرمجية الخاصة بك مثل هذا:
     
-    ![screenshot](images/tetris-part1.png)
+    ![لقطة الشاشة](images/tetris-part1.png)
 
-+ Let's put the music into a loop first so that it plays multiple times:
++ دعونا نضع الموسيقى في حلقة أولاً حتى يتم تشغيلها عدة مرات:
     
-    ![screenshot](images/tetris-times.png)
+    ![لقطة الشاشة](images/tetris-times.png)
 
-+ We can use the variable `current_bpm` to find out what the bpm is currently set to.
++ يمكننا استخدام المتغير `current_bpm` لمعرفة ما يتم تعيين bpm حاليا.
     
-    Add a line to increase the bpm every time you repeat the loop:
+    أضف خطًا لزيادة نبضة في الدقيقة في كل مرة تكرر فيها الحلقة:
     
-    ![screenshot](images/tetris-bpm.png)
+    ![لقطة الشاشة](images/tetris-bpm.png)
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/tetris-2.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/tetris-2.mp3" type="audio/mpeg"> المتصفح الخاص بك لا يدعم عنصر <code>الصوت </code>. </audio>
     </div>
 
-Try increasing the number of repeats to go faster and faster!
+حاول زيادة عدد مرات التكرار لتصبح أسرع وأسرع!
