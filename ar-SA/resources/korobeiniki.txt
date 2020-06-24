@@ -1,0 +1,19 @@
+# Welcome to Sonic Pi v2.10
+use_bpm 120
+use_synth :dpulse
+
+5.times do
+  play_pattern_timed [:E, :B3, :C, :D, :C, :B3], [1, 0.5, 0.5]
+  play_pattern_timed [:A3, :A3, :C, :E, :D, :C], [1, 0.5, 0.5]
+  play_pattern_timed [:B3, :C, :D, :E], [1.5, 0.5, 1, 1]
+  play_pattern_timed [:C, :A3, :A3], [1, 1, 2]
+  play_pattern_timed [:r, :D, :F, :A, :G, :F], [0.5, 1, 0.5, 1, 0.5, 0.5]
+  play_pattern_timed [:E, :C, :E, :D, :C], [1.5, 0.5, 1, 0.5, 0.5]
+  play_pattern_timed [:B3, :B3, :C, :D, :E], [1, 0.5, 0.5, 1, 1]
+  play_pattern_timed [:C, :A3, :A3], [1, 1, 2]
+  use_bpm current_bpm + 40
+end
+
+
+
+
