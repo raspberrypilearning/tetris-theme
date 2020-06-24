@@ -17,10 +17,10 @@ software: ''
 version: 3
 last_tested: 2017-01-01
 steps: 
-- title: Introduction
-- title: Code the Beginning
-- title: 'Challenge: Finish the tune'
-- title: Faster!
-- title: 'Challenge: Mix the tune'
-- title: 'Challenge: More of the tune'
-- title: 'Challenge: More music'
+  - title: Introduction
+  - title: Code the Beginning
+  - title: 'Challenge: Finish the tune'
+  - title: Faster!
+  - title: 'Challenge: Mix the tune'
+  - title: 'Challenge: More of the tune'
+  - title: 'Challenge: More music'
