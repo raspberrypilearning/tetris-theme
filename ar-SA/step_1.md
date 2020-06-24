@@ -6,7 +6,7 @@
   انقر فوق زر التشغيل أدناه لسماع كيف ستبدو الموسيقى: 
 <audio controls preload> 
   <source src="resources/korobeiniki.mp3" type="audio/mpeg">
-المتصفح الخاص بك لا يدعم عنصر <code>الصوت </code>. 
+المتصفح الخاص بك لا يدعم عنصر <code>الصوت</code>. 
 </audio>
 </div>
 
