@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: More music
+## Uitdaging: Meer muziek
 
-Can you use what you've learned to program more music? You can search for sheet music online. Some music gives the letter names for notes which makes it easier.
+Kun je wat je hebt geleerd gebruiken om meer muziek te programmeren? Je kunt online naar bladmuziek zoeken. Sommige muziek geeft de letternamen voor noten, wat het makkelijker maakt.
 
 \--- /challenge \---
