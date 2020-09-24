@@ -1,25 +1,25 @@
-## Faster!
+## Sneller!
 
-Russian folk songs often get faster and faster. The Tetris theme tune does this too as you get to higher levels in the game.
+Russische volksliederen worden vaak sneller en sneller. Het Tetris-thema doet dit ook als je naar hogere levels in het spel gaat.
 
-Let's make your tune go faster and faster.
+Laten we je melodie sneller en sneller laten gaan.
 
-+ Your code should now look like this:
++ Je code zou er nu als volgt uit moeten zien:
     
-    ![screenshot](images/tetris-part1.png)
+    ![schermafbeelding](images/tetris-part1.png)
 
-+ Let's put the music into a loop first so that it plays multiple times:
++ Laten we eerst de muziek in een lus zetten zodat deze meerdere keren wordt afgespeeld:
     
-    ![screenshot](images/tetris-times.png)
+    ![schermafbeelding](images/tetris-times.png)
 
-+ We can use the variable `current_bpm` to find out what the bpm is currently set to.
++ We kunnen de variabele `current_bpm` gebruiken om te zien waar de bpm momenteel op staat.
     
-    Add a line to increase the bpm every time you repeat the loop:
+    Voeg een regel toe om de bpm te verhogen elke keer dat je de lus herhaalt:
     
-    ![screenshot](images/tetris-bpm.png)
+    ![schermafbeelding](images/tetris-bpm.png)
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/tetris-2.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/tetris-2.mp3" type="audio/mpeg"> Je browser ondersteunt het element <code>audio</code> niet. </audio>
     </div>
 
-Try increasing the number of repeats to go faster and faster!
+Probeer het aantal herhalingen te verhogen om sneller en sneller te gaan!
