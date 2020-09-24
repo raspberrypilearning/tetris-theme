@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Mix the tune
+## Uitdaging: Mix de melodie
 
-Try changing the way the tune sounds by using a different synth.
+Probeer de manier te veranderen waarop de melodie klinkt door een andere synth te gebruiken.
 
-You can see a list of the synths available to you by typing `use_synth [space]` and choosing from the list that appears.
+Je kunt een lijst met de beschikbare synths zien door `use_synth [spatie]` te typen en een keuze te maken uit de lijst die verschijnt.
 
-![Choosing a synth](images/use_synth.png)
+![Een synth kiezen](images/use_synth.png)
 
 \--- /challenge \---
