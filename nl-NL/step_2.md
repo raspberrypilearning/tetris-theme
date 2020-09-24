@@ -1,63 +1,63 @@
-## Code the Beginning
+## Codeer het begin
 
-Now let's code the first part of the tune in Sonic Pi.
+Laten we nu het eerste deel van de melodie in Sonic Pi coderen.
 
-+ First let's choose a speed and a synth for the music. The normal speed is 60 beats per minute (bpm) but that's not fast enough for this piece.
++ Laten we eerst een snelheid en een synth voor de muziek kiezen. De normale snelheid is 60 tellen per minuut (bpm), maar dat is niet snel genoeg voor dit stuk.
     
-    Choose an empty Buffer in Sonic Pi and add this code:
+    Kies een lege buffer in Sonic Pi en voeg deze code toe:
     
-    ![screenshot](images/tetris-setup.png)
+    ![schermafbeelding](images/tetris-setup.png)
 
-+ Here's the first bar of Korobeiniki:
++ Hier is de eerste maat van Korobeiniki:
     
-    ![screenshot](images/tetris-notes1.png)
+    ![schermafbeelding](images/tetris-notes1.png)
     
-    It shows the name of the note below in red and the length of the note above in green.
+    Het toont onderaan de naam van de noot in rood en bovenaan de lengte van de noot in groen.
     
-    Musical notes have letter names from A-G. To get more notes you repeat the letters to get more octaves (ranges of higher or lower notes.) Each octave starts from C.
+    Muzikale noten hebben letternamen van A-G. Om meer noten te krijgen herhaal je de letters om meer octaven te krijgen (bereiken van hogere of lagere noten). Elke octaaf begint bij C.
     
-    In Sonic Pi the default is octave 4, b3 means b from the octave below.
+    In Sonic Pi is de standaard octaaf 4, b3 betekent b van een octaaf lager.
     
-    Sonic Pi allows you to use letter names instead of numbers. This is useful when you are working with musical notation.
+    Met Sonic Pi kun je letternamen gebruiken in plaats van cijfers. Dit is handig als je met een muzieknotatie werkt.
     
-    Code the first 3 notes of Korobeiniki in Sonic Pi:
+    Codeer de eerste 3 noten van Korobeiniki in Sonic Pi:
     
-    ![screenshot](images/tetris-start.png)
+    ![schermafbeelding](images/tetris-start.png)
 
-+ That works but it takes quite a lot of typing. There's a shorter way to program longer tunes: `play_pattern`.
++ Dat werkt, maar het kost heel veel typwerk. Er is een kortere manier om langere nummers te programmeren: `play_pattern`.
     
-    `play_pattern` allows you to program multiple notes in one line.
+    `play_pattern` stelt je in staat om meerdere noten in één regel te programmeren.
     
-    Replace your code to use `play_pattern` to play the first bar:
+    Vervang je code om `play_pattern` te gebruiken om de eerste maat te spelen:
     
-    ![screenshot](images/tetris-pattern.png)
+    ![schermafbeelding](images/tetris-pattern.png)
 
-+ You might have noticed that the notes aren't actually all the same length. That's okay, if you change `play_pattern` to `play_pattern_timed` then you can say how long each note lasts.
++ Je hebt misschien gemerkt dat de noten niet allemaal dezelfde lengte hebben. Dat is oké, als je `play_pattern` wijzigt in `play_pattern_timed` dan kun je zeggen hoe lang elke noot duurt.
     
-    The numbers in green show many beats each note lasts.
+    De getallen in het groen tonen hoeveel tellen elke noot duurt.
     
-    ![screenshot](images/tetris-notes1.png)
+    ![schermafbeelding](images/tetris-notes1.png)
     
-    (If you read music, this piece is in 4/4 time and a crotchet lasts one beat, a quaver lasts half a beat and a minim lasts two beats.)
+    (Als je muziek leest, is dit stuk in 4/4-maat en duurt een kwartnoot één tel, een achtste noot een halve tel en een halve noot twee tellen.)
     
-    `play_pattern_timed` takes a list of notes and then a list of times.
+    `play_pattern_timed` krijgt een lijst met noten en vervolgens een lijst met tijden.
     
-    Change your `play_pattern` code to look like this:
+    Wijzig je `play_pattern` code om er zo uit te zien:
     
-    ![screenshot](images/tetris-timed.png)
+    ![schermafbeelding](images/tetris-timed.png)
 
-+ If you don't give enough times then Sonic Pi will repeat them. This bar repeats the timing `1, 0.5, 0.5` (crotchet, quaver, quaver) so you can change your code to:
++ Als je niet genoeg tijden geeft dan zal Sonic Pi ze herhalen. Deze balk herhaalt de timing `1, 0.5, 0.5` (kwartnoot, achtste noot, achtste noot) zodat je je code kunt wijzigen in:
     
-    ![screenshot](images/tetris-timed2.png)
+    ![schermafbeelding](images/tetris-timed2.png)
 
-+ Add the next bar of music, the timing is the same for this bar.
++ Voeg de volgende maat aan de muziek toe, de timing is hetzelfde voor deze maat.
     
-    ![screenshot](images/tetris-notes2.png)
+    ![schermafbeelding](images/tetris-notes2.png)
     
-    ![screenshot](images/tetris-bar2.png)
+    ![schermafbeelding](images/tetris-bar2.png)
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/tetris-1.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/tetris-1.mp3" type="audio/mpeg"> Je browser ondersteunt het element <code>audio</code> niet. </audio>
     </div>
 
-Is the tune starting to sound familiar?
+Klinkt de melodie bekend?
