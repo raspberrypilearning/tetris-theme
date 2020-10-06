@@ -19,7 +19,9 @@ Laten we je melodie sneller en sneller laten gaan.
     ![schermafbeelding](images/tetris-bpm.png)
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/tetris-2.mp3" type="audio/mpeg"> Je browser ondersteunt het element <code>audio</code> niet. </audio>
+    <audio controls preload> 
+     <source src="resources/tetris-2.mp3" type="audio/mpeg"> Je browser ondersteunt het element <code>audio</code> niet. 
+    </audio>
     </div>
 
 Probeer het aantal herhalingen te verhogen om sneller en sneller te gaan!
