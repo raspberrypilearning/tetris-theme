@@ -57,9 +57,9 @@ Ahora vamos a programar la primera parte de la melodía en Sonic Pi.
     ![captura de pantalla](images/tetris-bar2.png)
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> 
-       <source src="resources/tetris-1.mp3" type="audio/mpeg"> Tu navegador no es compatible con el elemento <code>audio</code>. 
-      </audio>
+    <audio controls preload> 
+      <source src="resources/tetris-1.mp3" type="audio/mpeg"> Tu navegador no es compatible con el elemento <code>audio</code>. 
+    </audio>
     </div>
 
 ¿La melodía empieza a sonar familiar?

@@ -19,9 +19,9 @@ Hagamos que tu melodía sea más y más rápida.
     ![captura de pantalla](images/tetris-bpm.png)
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> 
-       <source src="resources/tetris-2.mp3" type="audio/mpeg"> Tu navegador no es compatible con el elemento <code>audio</code>. 
-      </audio>
+    <audio controls preload> 
+      <source src="resources/tetris-2.mp3" type="audio/mpeg"> Tu navegador no es compatible con el elemento <code>audio</code>. 
+    </audio>
     </div>
 
 ¡Intenta aumentar el número de repeticiones para ir más y más rápido!
