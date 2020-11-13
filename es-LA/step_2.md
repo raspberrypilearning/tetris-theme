@@ -1,63 +1,63 @@
-## Code the Beginning
+## Programar el inicio
 
-Now let's code the first part of the tune in Sonic Pi.
+Ahora vamos a programar la primera parte de la melodía en Sonic Pi.
 
-+ First let's choose a speed and a synth for the music. The normal speed is 60 beats per minute (bpm) but that's not fast enough for this piece.
++ Primero vamos a elegir una velocidad y un sintetizador para la música. La velocidad normal es de 60 pulsaciones por minuto (bpm), pero eso no es lo suficientemente rápido para esta pieza.
     
-    Choose an empty Buffer in Sonic Pi and add this code:
+    Elige un buffer vacío en Sonic Pi y añade este código:
     
-    ![screenshot](images/tetris-setup.png)
+    ![captura de pantalla](images/tetris-setup.png)
 
-+ Here's the first bar of Korobeiniki:
++ Aquí está el primer compás de Korobeiniki:
     
-    ![screenshot](images/tetris-notes1.png)
+    ![captura de pantalla](images/tetris-notes1.png)
     
-    It shows the name of the note below in red and the length of the note above in green.
+    El nombre de la nota se muestra abajo en rojo y la longitud de la nota arriba en verde.
     
-    Musical notes have letter names from A-G. To get more notes you repeat the letters to get more octaves (ranges of higher or lower notes.) Each octave starts from C.
+    Las notas musicales tiene nombres de letras de la A-G. Para obtener más notas repite las letras para obtener más octavas (rangos de notas superiores o inferiores.) Cada octava comienza en C.
     
-    In Sonic Pi the default is octave 4, b3 means b from the octave below.
+    En Sonic Pi el valor por defecto es la octava 4, b3 significa b de la octava debajo.
     
-    Sonic Pi allows you to use letter names instead of numbers. This is useful when you are working with musical notation.
+    Sonic Pi te permite usar nombres de letras en lugar de números. Esto es útil cuando estás trabajando con notación musical.
     
-    Code the first 3 notes of Korobeiniki in Sonic Pi:
+    Programa las primeras 3 notas de Korobeiniki en Sonic Pi:
     
-    ![screenshot](images/tetris-start.png)
+    ![captura de pantalla](images/tetris-start.png)
 
-+ That works but it takes quite a lot of typing. There's a shorter way to program longer tunes: `play_pattern`.
++ Eso funciona, pero se necesita mucho tecleo. Hay una manera más corta de programar melodías más largas: `play_pattern`.
     
-    `play_pattern` allows you to program multiple notes in one line.
+    `play_pattern` te permite programar múltiples notas en una línea.
     
-    Replace your code to use `play_pattern` to play the first bar:
+    Reemplaza tu código para usar `play_pattern` para reproducir el primer compás:
     
-    ![screenshot](images/tetris-pattern.png)
+    ![captura de pantalla](images/tetris-pattern.png)
 
-+ You might have noticed that the notes aren't actually all the same length. That's okay, if you change `play_pattern` to `play_pattern_timed` then you can say how long each note lasts.
++ Es posible que hayas notado que las notas no tienen la misma longitud. Está bien, si cambias `play_pattern` a `play_pattern_timed` entonces puedes decir cuánto dura cada nota.
     
-    The numbers in green show many beats each note lasts.
+    Los números en verde muestran cuántos tiempos dura cada nota.
     
-    ![screenshot](images/tetris-notes1.png)
+    ![captura de pantalla](images/tetris-notes1.png)
     
-    (If you read music, this piece is in 4/4 time and a crotchet lasts one beat, a quaver lasts half a beat and a minim lasts two beats.)
+    (Si lees música, esta pieza está en un compás de 4/4 y una negra dura un tiempo, una corchea dura la mitad de un tiempo y una blanca dura dos tiempos)
     
-    `play_pattern_timed` takes a list of notes and then a list of times.
+    `play_pattern_timed` toma una lista de notas y luego una lista de tiempos.
     
-    Change your `play_pattern` code to look like this:
+    Cambia tu código `play_pattern` para que se vea así:
     
-    ![screenshot](images/tetris-timed.png)
+    ![captura de pantalla](images/tetris-timed.png)
 
-+ If you don't give enough times then Sonic Pi will repeat them. This bar repeats the timing `1, 0.5, 0.5` (crotchet, quaver, quaver) so you can change your code to:
++ Si no le das suficientes tiempos, Sonic Pi los repetirá. Este compás repite el tiempo `1, 0.5, 0.5` (negra, corchea, corchea) para que puedas cambiar tu código a:
     
-    ![screenshot](images/tetris-timed2.png)
+    ![captura de pantalla](images/tetris-timed2.png)
 
-+ Add the next bar of music, the timing is the same for this bar.
++ Añade el siguiente compás de música, el tiempo es el mismo para este compás.
     
-    ![screenshot](images/tetris-notes2.png)
+    ![captura de pantalla](images/tetris-notes2.png)
     
-    ![screenshot](images/tetris-bar2.png)
+    ![captura de pantalla](images/tetris-bar2.png)
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/tetris-1.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/tetris-1.mp3" type="audio/mpeg"> Tu navegador no es compatible con el elemento <code>audio</code>. </audio>
     </div>
 
-Is the tune starting to sound familiar?
+¿La melodía empieza a sonar familiar?
