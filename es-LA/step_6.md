@@ -1,17 +1,17 @@
 \--- challenge \---
 
-## Challenge: More of the tune
+## Desafío: Más de la melodía
 
-Can you program the next part of the tune:
+Puedes programar la siguiente parte de la melodía:
 
-![screenshot](images/tetris-notes4.png)
+![captura de pantalla](images/tetris-notes4.png)
 
-Sonic Pi uses ':r' in lower case for a rest (a pause) and you can use it just like a note.
+Sonic Pi usa ':r' en minúsculas para un descanso (una pausa) y puedes usarlo como una nota.
 
-![screenshot](images/tetris-notes5.png)
+![captura de pantalla](images/tetris-notes5.png)
 
 <div id="audio-preview" class="pdf-hidden">
-  <audio controls preload> <source src="resources/tetris-c2.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  <audio controls preload> <source src="resources/tetris-c2.mp3" type="audio/mpeg"> Tu navegador no es compatible con el elemento <code>audio</code>. </audio>
 </div>
 
 \--- /challenge \---
