@@ -1,0 +1,17 @@
+--- challenge ---
+
+## Desafío: Más música
+
+¿Puedes usar lo que has aprendido para programar más música? Puedes buscar partituras en línea. Algunas canciones le dan nombres de letras a las notas, lo que lo hace más fácil.
+
+--- /challenge ---
+
+
+***
+Este proyecto fue traducido por voluntarios:
+
+Laura Andrea Vazquez Martinez
+
+Ana Luisa Cubas Córdova
+
+Gracias a los voluntarios, podemos dar a las personas de todo el mundo la oportunidad de aprender en su propio idioma. Puedes ayudarnos a llegar a más personas ofreciéndote como voluntario para traducir. Más información en [rpf.io/translate](https://rpf.io/translate).
