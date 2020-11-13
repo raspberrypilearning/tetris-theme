@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: More music
+## Desafío: Más música
 
-Can you use what you've learned to program more music? You can search for sheet music online. Some music gives the letter names for notes which makes it easier.
+¿Puedes usar lo que has aprendido para programar más música? Puedes buscar partituras en línea. Algunas canciones le dan nombres de letras a las notas, lo que lo hace más fácil.
 
 \--- /challenge \---
