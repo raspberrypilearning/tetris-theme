@@ -1,25 +1,25 @@
-## Faster!
+## ¡Más rápido!
 
-Russian folk songs often get faster and faster. The Tetris theme tune does this too as you get to higher levels in the game.
+Las canciones populares rusas suelen hacerse cada vez más rápidas. La melodía del tema Tetris también lo hace a medida que llegas a niveles más altos en el juego.
 
-Let's make your tune go faster and faster.
+Hagamos que tu melodía sea más y más rápida.
 
-+ Your code should now look like this:
++ Tu código debería verse así:
     
-    ![screenshot](images/tetris-part1.png)
+    ![captura de pantalla](images/tetris-part1.png)
 
-+ Let's put the music into a loop first so that it plays multiple times:
++ Primero pongamos la música en un bucle para que se reproduzca varias veces:
     
-    ![screenshot](images/tetris-times.png)
+    ![captura de pantalla](images/tetris-times.png)
 
-+ We can use the variable `current_bpm` to find out what the bpm is currently set to.
++ Podemos utilizar la variable `current_bpm` para averiguar el valor actual del bmp.
     
-    Add a line to increase the bpm every time you repeat the loop:
+    Añade una línea para aumentar el bpm cada vez que repitas el bucle:
     
-    ![screenshot](images/tetris-bpm.png)
+    ![captura de pantalla](images/tetris-bpm.png)
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/tetris-2.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/tetris-2.mp3" type="audio/mpeg"> Tu navegador no es compatible con el elemento <code>audio</code>. </audio>
     </div>
 
-Try increasing the number of repeats to go faster and faster!
+¡Intenta aumentar el número de repeticiones para ir más y más rápido!
