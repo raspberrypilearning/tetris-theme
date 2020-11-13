@@ -6,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Code the Tetris Theme Tune
-description: Program Sonic Pi to play musical notes and create the Tetris theme tune.
+title: Codifica el tema musical de Tetris
+description: Programa Sonic Pi para reproducir notas musicales y crear el tema Tetris.
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/tetris-theme
 interests: music
 technologies: ''
@@ -18,16 +18,16 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Introducción
   - 
-    title: Code the Beginning
+    title: Programar el inicio
   - 
-    title: 'Challenge: Finish the tune'
+    title: 'Desafío: Termina la melodía'
   - 
-    title: Faster!
+    title: '¡Más rápido!'
   - 
-    title: 'Challenge: Mix the tune'
+    title: 'Desafío: Mezclar la melodía'
   - 
-    title: 'Challenge: More of the tune'
+    title: 'Desafío: Más de la melodía'
   - 
-    title: 'Challenge: More music'
+    title: 'Desafío: Más música'
