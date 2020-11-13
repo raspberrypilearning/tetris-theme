@@ -1,15 +1,15 @@
 \--- challenge \---
 
-## Challenge: Finish the tune
+## Desafío: Termina la melodía
 
-Here's the music for the next two bars.
+Aquí está la música para los siguientes dos compases.
 
-![screenshot](images/tetris-notes3.png)
+![captura de pantalla](images/tetris-notes3.png)
 
-Can you use `play_pattern_timed` to program it?
+¿Puedes usar `play_pattern_timed` para programarlo?
 
 <div id="audio-preview" class="pdf-hidden">
-  <audio controls preload> <source src="resources/tetris-c1.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  <audio controls preload> <source src="resources/tetris-c1.mp3" type="audio/mpeg"> Tu navegador no es compatible con el elemento <code>audio</code>. </audio>
 </div>
 
 \--- /challenge \---
