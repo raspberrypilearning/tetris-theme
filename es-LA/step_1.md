@@ -1,69 +1,69 @@
-## Introduction
+## Introducción
 
-In this project you will learn how to program musical notes in Sonic Pi so that you can turn sheet music into code. You'll create your own mix of the Tetris theme tune.
+En este proyecto aprenderás a programar notas musicales en Sonic Pi para que puedas convertir la partitura en código. Crearás tu propia mezcla del tema de Tetris.
 
 <div id="audio-preview" class="pdf-hidden">
-  Click the play button below to hear how the music will sound: <audio controls preload> <source src="resources/korobeiniki.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  Haz clic en el botón de reproducción de abajo para escuchar cómo sonará la música: <audio controls preload> <source src="resources/korobeiniki.mp3" type="audio/mpeg"> Tu navegador no es compatible con el elemento <code>audio</code>. </audio>
 </div>
 
-Tetris is a popular computer game created in 1984 by Russian coder Alexey Pajitnov. Many versions of Tetris use the music 'Korobeiniki', a Russian folk dance.
+Tetris es un popular juego de computadora creado en 1984 por el programador ruso Alexey Pajitnov. Muchas versiones de Tetris utilizan la música 'Korobeiniki', una danza popular rusa.
 
-If you're using a Raspberry Pi computer then you can hear the music by playing the Tetromino game. You can find it by choosing 'Games' from the menu and then 'Python Games'. Don't play for too long! You've got coding to do.
+Si estás usando una computadora Raspberry Pi, entonces puedes escuchar la música jugando el juego Tetromino. Puedes encontrarlo eligiendo "Juegos" desde el menú y después "Juegos Python". ¡No juegues por mucho tiempo! Tienes código por hacer.
 
-![screenshot](images/tetromino.png)
+![captura de pantalla](images/tetromino.png)
 
-The shapes of the Tetris pieces are called tetrominoes - the 2D shapes that can be made with 4 squares.
+Las formas de las piezas de Tetris se llaman tetrominós - las formas 2D que se pueden hacer con 4 cuadrados.
 
-### Additional information for club leaders
+### Información adicional para los líderes del club
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/tetris-theme/print).
+Si necesitas imprimir este proyecto, por favor utiliza la [versión para imprimir](https://projects.raspberrypi.org/en/projects/tetris-theme/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Notas para el líder del club
 
-## Introduction:
+## Introducción:
 
-In this project, children will program the Tetris Theme using musical notes and work with musical notation.
+En este proyecto, los niños programarán el tema de Tetris utilizando notas musicales y trabajarán con notación musical.
 
-## Resources
+## Recursos
 
-The 'Project Materials' link for this project contains the following resources:
+El enlace 'Materiales del proyecto' contiene los siguientes recursos:
 
-##### Club leader Resources
+##### Recursos para el líder del club
 
-You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
+Puedes encontrar la versión completa de este proyecto haciendo clic en el enlace 'Materiales del proyecto', que contiene:
 
 * kobeiniki.txt
 * kobeiniki.mp3
 
-## Learning Objectives
+## Objetivos del Aprendizaje
 
-* Programming music using letter names. 
-* Using `play_pattern_timed` in Sonic Pi.
+* Programar música usando nombres de letras. 
+* Usar `play_pattern_timed` en Sonic Pi.
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Este proyecto incluye elementos de los siguientes aspectos del [Currículo de creación digital de Raspberry Pi](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Usar estructuras de programación básicas para crear programas simples.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Challenges
+## Desafíos
 
-* "Finish the tune" - Program more music from annotated musical notation.
-* "Mix the tune" - Experiment with using different synths.
-* "More of the tune" - Program more music from annotated musical notation and using `:r` for rests.
-* "More music" - Find simple sheet music online and program it.
+* "Terminar la melodía" - Programar más música de la notación musical anotada.
+* "Mezclar la melodía" - Experimentar con el uso de diferentes sintetizadores.
+* "Más de la melodía" - Programar más música de la notación musical anotada y usar `:r` para descansar.
+* "Más música" - Encontrar partituras simples en línea y programarlas.
 
-## Frequently Asked Questions
+## Preguntas frecuentes
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Materiales del proyecto
 
-## Club leader resources
+## Recursos para el líder del club
 
-* [Downloadable completed Sonic Pi project](resources/korobeiniki.txt)
-* [Downloadable completed project mp3 file](resources/korobeiniki.mp3)
+* [Proyecto completo Sonic Pi descargable](resources/korobeiniki.txt)
+* [Archivo mp3 del proyecto completo descargable](resources/korobeiniki.mp3)
 
 \--- /collapse \---
