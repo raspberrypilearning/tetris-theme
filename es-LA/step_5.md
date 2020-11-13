@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Mix the tune
+## Desafío: Mezclar la melodía
 
-Try changing the way the tune sounds by using a different synth.
+Intenta cambiar la forma en que suena la melodía usando un sintetizador diferente.
 
-You can see a list of the synths available to you by typing `use_synth [space]` and choosing from the list that appears.
+Puedes ver una lista de los sintetizadores disponibles escribiendo `use_synth [space]` y eligiendo de la lista que aparece.
 
-![Choosing a synth](images/use_synth.png)
+![Elegir un sintetizador](images/use_synth.png)
 
 \--- /challenge \---
