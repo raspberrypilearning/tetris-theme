@@ -1,6 +1,6 @@
 ## Inleiding
 
-In dit project leer je hoe je muzieknoten in Sonic Pi programmeert zodat je bladmuziek in code kunt veranderen. Je maakt je eigen mix van het muzikale thema van Tetris.
+In dit project leer je hoe je muzieknoten in Sonic Pi programmeert zodat je bladmuziek in code kunt veranderen. Je maakt je eigen mix van de muzikale melodie van Tetris.
 
 <div id="audio-preview" class="pdf-hidden">
   Klik op de afspeelknop hieronder om te horen hoe de muziek klinkt: <audio controls preload> <source src="resources/korobeiniki.mp3" type="audio/mpeg"> Je browser ondersteunt het element <code>audio</code> niet. </audio>
@@ -24,7 +24,7 @@ Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](h
 
 ## Inleiding:
 
-In dit project programmeren kinderen het Tetris-thema met behulp van muzikale noten en werken ze met muzikale notatie.
+In dit project programmeren kinderen de Tetris-herkenningsmelodie met behulp van muzikale noten en werken ze met muzikale notatie.
 
 ## Bronnen
 
