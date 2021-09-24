@@ -1,6 +1,6 @@
 ## Sneller!
 
-Russische volksliederen worden vaak sneller en sneller. Het Tetris-thema doet dit ook als je naar hogere levels in het spel gaat.
+Russische volksliederen worden vaak sneller en sneller. De Tetris-melodie doet dit ook als je naar hogere levels in het spel gaat.
 
 Laten we je melodie sneller en sneller laten gaan.
 
