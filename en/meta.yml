@@ -18,11 +18,12 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Introduction
-  completion: engaged
 - title: Code the Beginning
 - title: 'Challenge: Finish the tune'
 - title: Faster!
+  completion:
+  - engaged
+  - internal
 - title: 'Challenge: Mix the tune'
 - title: 'Challenge: More of the tune'
-  completion: internal
 - title: 'Challenge: More music'

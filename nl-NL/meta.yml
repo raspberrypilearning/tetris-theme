@@ -19,11 +19,12 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Inleiding
-  completion: engaged
 - title: Codeer het begin
 - title: 'Uitdaging: Maak de melodie af'
 - title: Sneller!
+  completion:
+  - engaged
+  - internal
 - title: 'Uitdaging: Mix de melodie'
 - title: 'Uitdaging: Meer van de melodie'
-  completion: internal
 - title: 'Uitdaging: Meer muziek'

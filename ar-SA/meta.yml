@@ -18,11 +18,12 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: المقدمة
-  completion: engaged
 - title: برمجة البدء
 - title: 'التحدي: أكمل اللحن'
 - title: أسرع!
+  completion:
+  - engaged
+  - internal
 - title: 'التحدي: امزج اللحن'
 - title: 'التحدي: المزيد من اللحن'
-  completion: internal
 - title: 'التحدي: المزيد من الموسيقى'

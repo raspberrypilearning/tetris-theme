@@ -19,11 +19,12 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Einleitung
-  completion: engaged
 - title: Codiere den Anfang
 - title: 'Herausforderung: Beende das Stück'
 - title: Schneller!
+  completion:
+  - engaged
+  - internal
 - title: 'Herausforderung: Mischen Sie die Melodie'
 - title: 'Herausforderung: Mehr von der Melodie'
-  completion: internal
 - title: 'Herausforderung: Mehr Musik'

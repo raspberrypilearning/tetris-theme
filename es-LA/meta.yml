@@ -18,11 +18,12 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Introducción
-  completion: engaged
 - title: Programar el inicio
 - title: 'Desafío: Termina la melodía'
 - title: "¡Más rápido!"
+  completion:
+  - engaged
+  - internal
 - title: 'Desafío: Mezclar la melodía'
 - title: 'Desafío: Más de la melodía'
-  completion: internal
 - title: 'Desafío: Más música'

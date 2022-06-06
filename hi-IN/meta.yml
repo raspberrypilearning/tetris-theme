@@ -19,11 +19,12 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: परिचय
-  completion: engaged
 - title: आरंभ कोड करना
 - title: 'चुनौती: धुन समाप्त करना'
 - title: अधिक तेज़!
+  completion:
+  - engaged
+  - internal
 - title: 'चुनौती: धुन को मिलाना'
 - title: 'चुनौती: धुन के बारे में और अधिक'
-  completion: internal
 - title: 'चुनौती: अधिक संगीत'
